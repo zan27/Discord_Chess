@@ -1,0 +1,7 @@
+.idea/
+.venv/
+.vscode/
+__pycache__/
+venv/
+test.py
+.env
