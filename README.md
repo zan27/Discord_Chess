@@ -1,5 +1,6 @@
 ### Chess bot
 
+- Built in Python
 - Users can play Chess with other users through commands sent in the discord chat;
 - Challenge someone by sending "-chess" and tagging them, the game will then initialize and the bot will give the instructions;
 - The bot will showcase the board before each move;
